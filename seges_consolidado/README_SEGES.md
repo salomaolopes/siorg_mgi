@@ -280,14 +280,6 @@ Gerencia transferências de recursos e parcerias da União.
 ```
 
 ---
-
-## 📞 INFORMAÇÕES DE CONTATO
-
-**SEGES - Secretaria de Gestão e Inovação**  
-Ministério da Gestão e da Inovação em Serviços Públicos  
-Esplanada dos Ministérios, Bloco C  
-CEP: 70046-900 - Brasília/DF  
-
 ---
 
 ## 🔄 ATUALIZAÇÕES
@@ -296,15 +288,6 @@ CEP: 70046-900 - Brasília/DF
 **Data**: 04/12/2025  
 **Fonte**: Relatório Dinâmico Estrutura Viva MGI  
 **Status**: Estrutura oficial atualizada  
-
-### Próximas Atualizações Sugeridas:
-- [ ] Adicionar gestores responsáveis por cada unidade
-- [ ] Incluir competências e atribuições detalhadas
-- [ ] Adicionar contatos (telefone, e-mail)
-- [ ] Incluir número de servidores por unidade
-- [ ] Criar versão com organograma funcional
-- [ ] Desenvolver dashboard de métricas
-
 ---
 
 ## 📝 NOTAS TÉCNICAS
@@ -314,29 +297,3 @@ CEP: 70046-900 - Brasília/DF
 - Hierarquia construída baseada nos níveis do CSV original
 - Inclui apenas unidades diretamente subordinadas à SEGES
 - Última atualização: 04/12/2025
-
-### Ferramentas Utilizadas:
-- **Python 3.12** - Processamento de dados
-- **Pandas** - Manipulação de dados
-- **Plotly** - Treemap interativo
-- **Matplotlib** - Organograma visual estático
-
----
-
-## ✅ CHECKLIST
-
-- [x] Treemap interativo funcional
-- [x] Organograma visual de alta qualidade
-- [x] CSV consolidado com todos os dados
-- [x] Documentação completa
-- [x] Todas as 34 unidades incluídas
-- [x] 4 níveis hierárquicos representados
-- [x] Cores diferenciadas por nível
-- [x] Pronto para impressão e web
-
----
-
-**Gerado em**: 04/12/2025  
-**Versão**: 1.0  
-**Formato**: Markdown  
-**Encoding**: UTF-8  
