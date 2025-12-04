@@ -1,8 +1,7 @@
 # 📊 MGI - Organogramas e Análises da Estrutura Viva
 
 ## Ministério da Gestão e da Inovação em Serviços Públicos
-
-**Data de Atualização**: 04/12/2025  
+ 
 **Fonte**: Relatório Dinâmico Estrutura Viva  
 **Total de Unidades Organizacionais**: 413  
 **Níveis Hierárquicos**: 8  
@@ -250,14 +249,6 @@
 
 ---
 
-## 📞 INFORMAÇÕES DE CONTATO
-
-**Ministério da Gestão e da Inovação em Serviços Públicos (MGI)**  
-Esplanada dos Ministérios, Bloco C  
-CEP: 70046-900 - Brasília/DF  
-
-Site: www.gov.br/gestao  
-
 ---
 
 ## 📝 NOTAS TÉCNICAS
@@ -293,8 +284,3 @@ Site: www.gov.br/gestao
 - [x] Compatibilidade multiplataforma
 
 ---
-
-**Gerado em**: 04/12/2025  
-**Versão**: 2.0 - Estrutura Viva  
-**Python**: 3.12  
-**Encoding**: UTF-8  
