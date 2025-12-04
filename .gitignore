@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.env
+*.env
+__pycache__/
+.ipynb_checkpoints/
+mgi_consolidado/*.py
+mgi_consolidado/*.ipynb
+seges_consolidado/*.py
+seges_consolidado/*.ipynb

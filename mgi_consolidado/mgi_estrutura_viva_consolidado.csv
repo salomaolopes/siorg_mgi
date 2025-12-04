@@ -1,0 +1,414 @@
+﻿Nível Hierárquico,Denominação Unidade,Código Unidade,Sigla Unidade,Data_Atualizacao,Subordinados_Diretos_Aprox
+1,Ministério da Gestão e da Inovação em Serviços Públicos,308803,MGI,2025-12-04,14
+3,Coordenação-Geral de Temas Econômicos e Comerciais Internacionais,374689,CGTEC,2025-12-04,0
+3,Coordenação de Gestão da Integridade,313374,COINT,2025-12-04,0
+3,Coordenação-Geral de Acompanhamento e Controle,313372,CGAC,2025-12-04,0
+2,Consultoria Jurídica,308908,CONJUR,2025-12-04,0
+2,Gabinete Ministerial,308906,GM,2025-12-04,1
+3,Cerimonial,313295,CERIM,2025-12-04,0
+2,Ouvidoria,308909,OUV,2025-12-04,0
+2,Secretaria-Executiva,308907,SE,2025-12-04,1
+3,Gabinete,309448,GABIN-SE,2025-12-04,0
+2,Arquivo Nacional,334,AN,2025-12-04,7
+4,Divisão Centro de Referência Memórias Reveladas,489229,DICMIR,2025-12-04,0
+3,Coordenação-Geral de Comunicação,300581,CGCOM,2025-12-04,0
+3,"Coordenação-Geral de Planejamento, Gestão Estratégica e Governança",418310,CGPLAN,2025-12-04,2
+4,Coordenação-Geral de Administração e Logística,300643,COGAD,2025-12-04,6
+5,Coordenação de Gestão de Pessoas,300645,COGEP,2025-12-04,3
+6,Divisão de Desenvolvimento de Pessoas,300647,DIDEP,2025-12-04,0
+6,Divisão de Gestão das Informações Funcionais e Pagamento,300646,DIFUP,2025-12-04,0
+6,Serviço de Atenção à Saúde e à Qualidade de Vida no Trabalho,320904,SESAT,2025-12-04,0
+5,Coordenação de Licitações e Contratos,300655,COLIC,2025-12-04,2
+6,Divisão de Contratos e Congêneres,374929,DICON,2025-12-04,0
+6,Divisão de Planejamento e Gerenciamento de Contratações,300656,DIGEC-AN,2025-12-04,0
+5,Coordenação de Protocolo e Arquivo,375029,COPAR,2025-12-04,0
+5,Coordenação de Recursos Orçamentários e Financeiros,300649,COROF,2025-12-04,1
+6,Divisão de Planejamento e Execução Orçamentária,300650,DIPEO,2025-12-04,0
+5,Divisão de Arquitetura e Engenharia,300654,DIENG,2025-12-04,0
+5,"Divisão de Serviços Gerais, Patrimônio e Almoxarifado",300653,DISPA,2025-12-04,0
+4,Coordenação-Geral de Tecnologia da Informação,56461,COTIN,2025-12-04,2
+5,Coordenação de Desenvolvimento de Sistemas,2450,COSIS,2025-12-04,0
+5,Coordenação de Infraestrutura,7620,COINF,2025-12-04,0
+3,Diretoria de Gestão de Documentos e Arquivos,316742,DGD,2025-12-04,2
+4,Coordenação-Geral de Desenvolvimento e Análise de Instrumentos de Gestão de Documentos e Arquivos,300586,CODAG,2025-12-04,2
+5,Coordenação de Análise de Instrumentos de Gestão de Documentos,300587,CODAI,2025-12-04,0
+5,Divisão de Memória da Administração Pública Brasileira,300582,DMAPA,2025-12-04,0
+4,Coordenação-Geral de Gestão de Documentos,300583,COGED,2025-12-04,2
+5,Coordenação de Normatização e Orientação Técnica,300584,CONOR,2025-12-04,0
+5,Divisão de Capacitação,300585,DICAP,2025-12-04,0
+3,"Diretoria de Processamento Técnico, Preservação e Acesso ao Acervo",316741,DPT,2025-12-04,2
+4,Coordenação-Geral de Acesso e Difusão,300600,COACE,2025-12-04,3
+5,Coordenação de Consultas ao Acervo,300601,COCAC,2025-12-04,3
+6,Divisão da Biblioteca,374489,DIBIB,2025-12-04,0
+6,Divisão de Atendimento Presencial,300602,DIAP,2025-12-04,0
+6,Divisão de Atendimento à Distância,374470,DIAD,2025-12-04,0
+5,Coordenação de Pesquisa e Difusão do Acervo,300634,COPED,2025-12-04,4
+6,Divisão de Educação em Arquivos,374549,DICEA,2025-12-04,0
+6,Divisão de Pesquisa para Difusão,300635,DPESQ,2025-12-04,0
+6,Divisão de Produção Cultural,374529,DIPROC,2025-12-04,0
+6,Divisão de Produção e Logística Editorial,374509,DEDIT,2025-12-04,0
+5,Serviço de Estudos sobre Pessoas Usuárias e Acessibilidade em Arquivos,374630,SEU,2025-12-04,0
+4,Coordenação-Geral de Processamento Técnico e Preservação do Acervo,300589,COPRA,2025-12-04,5
+5,"Coordenação de Documentos Audiovisuais, Cartográficos, Iconográficos e Sonoros",300593,CODAC,2025-12-04,4
+6,Divisão de Processamento Técnico de Documentos Audiovisuais e Sonoros,300594,DIDAS,2025-12-04,0
+6,Divisão de Processamento Técnico de Documentos Cartográficos,320910,DICAR,2025-12-04,0
+6,Divisão de Processamento Técnico de Documentos Iconográficos,300595,DIDIC,2025-12-04,0
+6,Serviço de Reformatação de Documentos Audiovisuais e Sonoros,374610,SRDAS,2025-12-04,0
+5,Coordenação de Documentos Escritos,300596,CODES,2025-12-04,4
+6,Divisão de Documentos Privados,374469,DIDOP,2025-12-04,0
+6,Divisão de Processamento Técnico de Documentos do Executivo e do Legislativo,300597,DIPEX,2025-12-04,0
+6,Divisão de Processamento Técnico de Documentos do Judiciário e Extrajudicial,300598,DIJUD,2025-12-04,0
+6,Serviço de Paleografia,374609,SEPA,2025-12-04,0
+5,Coordenação de Preservação do Acervo,300590,COPAC,2025-12-04,2
+6,Divisão de Preservação do Acervo Analógico,300592,DIPAN,2025-12-04,0
+6,Divisão de Preservação do Acervo Digital,300591,DIPAD,2025-12-04,1
+7,Serviço de Reformatação de Documentos,490069,SRDOC,2025-12-04,0
+5,Serviço de Gestão e Normatização dos Sistemas de Informação Arquivística,374569,SGNS,2025-12-04,0
+5,Serviço de Movimentação do Acervo,374589,SMOA,2025-12-04,0
+3,Gabinete,299420,GABIN-AN,2025-12-04,1
+4,Serviço de Apoio Técnico à Ouvidoria do MGI,300580,SATO,2025-12-04,0
+3,Secretaria Executiva do Conselho Nacional de Arquivos,316998,SE-CONARQ,2025-12-04,0
+3,Superintendência Regional no Distrito Federal,299435,SUREG,2025-12-04,3
+4,Coordenação de Gestão de Documentos,300674,CGDOC,2025-12-04,1
+5,Divisão de Análise de Instrumentos de Gestão de Documentos,300675,DIGED,2025-12-04,0
+4,"Coordenação de Processamento Técnico, Preservação e Acesso ao Acervo",300671,CPACE,2025-12-04,2
+5,Divisão de Acesso e Difusão do Acervo,300673,DIACE,2025-12-04,0
+5,Divisão de Processamento Técnico e Preservação de Acervo,300672,DIPRO,2025-12-04,0
+4,Divisão de Gestão Interna,300670,DGINT,2025-12-04,0
+2,Secretaria Extraordinária para a Transformação do Estado,309780,SETE,2025-12-04,0
+2,Secretaria de Coordenação e Governança das Empresas Estatais,215893,SEST,2025-12-04,1
+4,Coordenação-Geral de Assuntos Societários,75423,CGASE,2025-12-04,0
+4,Coordenação-Geral de Políticas de Remuneração Executiva,215896,CGPRE,2025-12-04,0
+4,Coordenação-Geral de Articulação e Avaliação da Governança,451470,CGAVG,2025-12-04,0
+3,Diretoria de Inovação e Inteligência em Gestão de Estatais,372429,DIGES,2025-12-04,1
+5,Coordenação de Orçamento das Empresas do Setor Financeiro,215901,COESF,2025-12-04,0
+5,Coordenação de Orçamento das Empresas do Setor Produtivo,215900,COESP,2025-12-04,0
+4,Coordenação de Assuntos Administrativos,215904,COADM,2025-12-04,0
+2,Secretaria de Gestão de Pessoas,117788,SGP,2025-12-04,6
+3,"Coordenação-Geral de Administração, Atendimento e Documentação",375230,CGAAD,2025-12-04,0
+3,Diretoria de Carreiras e Desenvolvimento de Pessoas,221662,DECAR,2025-12-04,2
+4,Coordenação-Geral de Aplicação da Legislação de Carreiras,246055,CGALC,2025-12-04,0
+4,Coordenação-Geral de Arquitetura de Carreiras,221665,CGCAR,2025-12-04,0
+3,Diretoria de Governança e Inteligência de Dados,417750,DIGID,2025-12-04,2
+4,Coordenação de Monitoramento e Conformidade,293116,COMOC,2025-12-04,0
+4,Coordenação-Geral de Informações Gerenciais,419369,CGINF,2025-12-04,0
+3,Diretoria de Provimento e Movimentação de Pessoal,221691,DEPRO,2025-12-04,0
+5,Coordenação de Políticas e Inovação em Concursos Públicos,312687,CPCON,2025-12-04,2
+6,Divisão de Empregados Públicos e Anistiados,293096,DIEMP,2025-12-04,0
+6,"Divisão de Movimentação, Licenças e Afastamentos",293095,DIMOV,2025-12-04,0
+3,Diretoria de Serviços de Aposentados e de Pensionistas e Órgãos Extintos,233943,DECIPEX,2025-12-04,8
+4,Coordenação de Apoio Administrativo,293124,COADM,2025-12-04,0
+4,Coordenação de Atendimento,263576,COATE,2025-12-04,0
+4,Coordenação-Geral de Benefícios,233944,CGBEN,2025-12-04,2
+5,Coordenação de Auxílios,263595,COAUX,2025-12-04,0
+5,Coordenação de Concessão e Manutenção de Benefícios,263597,COBEN,2025-12-04,0
+4,Coordenação-Geral de Extinção e Convênios,120431,CGECO,2025-12-04,0
+4,Coordenação-Geral de Gestão de Acervos Funcionais,202325,CGGAF,2025-12-04,5
+5,Coordenação de Assentamentos Funcionais Digitais,263601,COAFD,2025-12-04,0
+5,Coordenação de Análise de Demandas de Complementação da Folha,263602,COCAP,2025-12-04,0
+5,Coordenação de Execução Orçamentária e Financeira,263579,CEOFI,2025-12-04,0
+5,Coordenação de Pagamentos de Aposentadorias e Pensões,263578,COPAG,2025-12-04,0
+5,Coordenação de Demandas Judiciais,263600,CODEJ,2025-12-04,0
+4,Divisão de Pessoal no Ex-Território Federal de Rondônia,209955,DIGEPRO,2025-12-04,0
+4,Divisão de Pessoal no Ex-Território Federal de Roraima,209957,DIGEPRR,2025-12-04,0
+4,Divisão de Pessoal no Ex-Território Federal do Amapá,209953,DIGEPAP,2025-12-04,0
+3,Diretoria de Soluções Digitais,117755,DESIN,2025-12-04,2
+4,Coordenação-Geral de Gestão da Folha e Integração de Sistemas,117756,CGFIS,2025-12-04,4
+5,"Coordenação de Gestão, Inovação e Sustentação dos Processos de Folha de Pagamento",312668,COGIF,2025-12-04,0
+5,Coordenação de Soluções Inovadoras e Gestão dos Processos Estruturantes de Cadastro de Pessoal,375609,CECAP,2025-12-04,0
+5,Divisão de Inovação e Gestão dos Processos Funcionais de Cadastro de Pessoal,293121,DICAD,2025-12-04,0
+5,Divisão de Inovação e Gestão dos Processos de Cadastro de Pessoal Inativo,293120,DICAP,2025-12-04,0
+4,Coordenação-Geral de Transformação Digital em Gestão de Pessoas,200128,CGDIP,2025-12-04,0
+2,Secretaria de Gestão e Inovação,37003,SEGES,2025-12-04,8
+3,Assessoria Internacional,418330,ASSINT,2025-12-04,0
+3,Central de Compras,200093,CENTRAL,2025-12-04,4
+4,Coordenação-Geral de Contratações de Tecnologia da Informação e Comunicação,237005,CGTIC,2025-12-04,0
+4,Coordenação-Geral de Estratégias de Aquisições e Contratações,106058,CGEST,2025-12-04,2
+5,Coordenação de Atas de Registro de Preços,200797,COARP,2025-12-04,0
+5,Coordenação de Monitoramento de Contratos,200798,COMOC,2025-12-04,0
+4,Coordenação-Geral de Licitações,200095,CGLIC,2025-12-04,0
+4,Coordenação-Geral de Serviços Compartilhados,221730,CGSEC,2025-12-04,0
+3,Coordenação-Geral de Gestão da Informação,117759,CGINF,2025-12-04,4
+4,"Coordenação de Controle de Cargos, Funções e Gratificações",224018,COCAF,2025-12-04,0
+4,Coordenação de Informações Gerenciais,321407,COINF,2025-12-04,0
+4,Coordenação de Inovação e Ciência de Dados,293068,CDATA,2025-12-04,0
+4,Coordenação de Soluções em Gestão,321423,COGES,2025-12-04,0
+3,Coordenação-Geral de Relacionamento e Gestão do Atendimento,246050,CGREL,2025-12-04,1
+4,Coordenação-Geral de Sistemas de Processo Eletrônico,300073,CGSIS,2025-12-04,1
+5,Divisão de Qualidade,300074,DQUAL,2025-12-04,0
+3,Diretoria de Inovação Governamental,292530,DINOV,2025-12-04,4
+4,Coordenação-Geral de Gestão das Carreiras Transversais,117779,CGCAT,2025-12-04,0
+4,Coordenação-Geral de Inovação e Ciências Comportamentais,321146,CINCO,2025-12-04,0
+4,Coordenação-Geral de Inovação e Governança Estratégica,292532,CGINGA,2025-12-04,0
+4,Coordenação-Geral do Programa de Gestão e Desempenho,321144,CGPGD,2025-12-04,0
+3,Diretoria de Modelos Organizacionais,117743,DEMOR,2025-12-04,1
+4,Coordenação-Geral de Modelos de Gestão,292528,CGMOG,2025-12-04,3
+5,Coordenação de Catalogação,418389,COCAT,2025-12-04,0
+5,Coordenação do Sistema de Compras,321385,COCMP,2025-12-04,0
+5,Coordenação do Sistema de Diárias e Passagens,117712,CODIP,2025-12-04,0
+3,Diretoria de Transferências e Parcerias da União,117720,DTPAR,2025-12-04,4
+4,Coordenação-Geral da Plataforma Tecnológica,117722,CGTEC,2025-12-04,0
+4,Coordenação-Geral de Governança Colaborativa e Gestão,224016,CGGCO,2025-12-04,0
+4,Coordenação-Geral de Normas e Processos,106070,CGNOP,2025-12-04,0
+4,Coordenação-Geral de informação e Monitoramento de Obras,374429,CGIMO,2025-12-04,0
+3,Gabinete,103356,GABIN-SEGES,2025-12-04,1
+4,Coordenação Administrativa e Gestão Interna,75463,COADI,2025-12-04,0
+2,Secretaria de Governo Digital,3495,SGD,2025-12-04,7
+3,Assessoria de Apoio à Gestão,292571,ASSES,2025-12-04,0
+3,Diretoria de Difusão da Transformação Digital,293015,DEDIF,2025-12-04,2
+4,Coordenação-Geral de Gestão da Rede Nacional de Governo Digital,374309,CGRED,2025-12-04,1
+5,Coordenação de Apoio e Monitoramento de Projetos Estratégicos,293180,CMP,2025-12-04,0
+4,Coordenação-Geral de Relacionamento e Parcerias,293017,CGREP,2025-12-04,0
+3,Diretoria de Estruturação de Dados para Políticas Públicas,488332,DEDAP,2025-12-04,0
+3,Diretoria de Gestão de Recursos de Tecnologia da Informação,310281,DEGTI,2025-12-04,2
+4,Coordenação-Geral de Governança em Tecnologia da Informação,229076,CGGOV,2025-12-04,0
+4,Coordenação-Geral de Normas e Análise de Aquisições de Tecnologia da Informação e Comunicação,229068,CGNAT,2025-12-04,0
+3,Diretoria de Identidade Digital,293006,DEPID,2025-12-04,0
+5,Coordenação de Sustentação das Plataformas de Identidade Digital,418231,CSPID,2025-12-04,0
+3,Diretoria de Infraestrutura Nacional de Dados,293002,DEDAD,2025-12-04,2
+4,Coordenação-Geral de Governança de Dados,293005,CGGOD ,2025-12-04,0
+4,Coordenação-Geral de Interação e Inteligência,293003,CGINI ,2025-12-04,1
+5,Coordenação de Plataformas de Interoperabilidade,293169,CPLIN,2025-12-04,0
+3,Diretoria de Plataformas de Serviços Públicos Digitais,293012,DESER,2025-12-04,2
+5,Coordenação de Operações e Monitoramento,316777,COOPM,2025-12-04,0
+5,Coordenação de Maturidade,346969,COMAT,2025-12-04,0
+4,Coordenação de Administração e Gestão Interna,373969,CAI,2025-12-04,0
+4,Coordenação de Apoio Técnico Administrativo,373989,COATA,2025-12-04,0
+2,Secretaria de Relações de Trabalho,320863,SRT,2025-12-04,3
+3,"Diretoria de Benefícios, Previdência e Atenção à Saúde",221671,DIPAS,2025-12-04,0
+5,Divisão de Atenção à Saúde,293104,DIAS,2025-12-04,0
+5,Coordenação de Benefícios e Vantagens,375132,COBEV,2025-12-04,0
+5,Coordenação de Legislação Previdenciária e Direitos Sociais,375149,COLEP,2025-12-04,0
+3,Diretoria de Relações de Trabalho no Serviço Público,221708,DERET,2025-12-04,1
+4,Coordenação-Geral de Negociação Sindical no Serviço Público,221709,CGNSP,2025-12-04,0
+3,Gabinete,320864,GABIN-SRT,2025-12-04,0
+2,Secretaria de Serviços Compartilhados,237327,SSC,2025-12-04,5
+4,Coordenação de Comunicação Interna,246074,CCOM,2025-12-04,0
+4,Coordenação de Criação e Design,366051,CODESIGN,2025-12-04,0
+3,Diretoria de Administração e Logística,237352,DAL,2025-12-04,5
+4,Coordenação-Geral de Gestão de Demandas e Inovação,42826,CGGIN,2025-12-04,2
+5,Coordenação de Gestão de Contratos Compartilhados,49042,COGEC,2025-12-04,0
+5,Coordenação de Planejamento de Contratações,348549,COPLAN,2025-12-04,0
+4,Coordenação-Geral de Informação e Patrimônio,2734,CGINP,2025-12-04,0
+7,Serviço de Conferência e de Controle de Inventário de Bens,293247,SECOI,2025-12-04,0
+6,Divisão de Material e de Patrimônio,73768,DIMAP,2025-12-04,2
+7,Serviço de Controle de Bens e de Sistema de Patrimônio,293246,SESIP,2025-12-04,0
+7,Serviço de Movimentação e Incorporação de Bens,73761,SEMIB,2025-12-04,0
+6,Divisão de Arquivo e Protocolo,73762,DIARP,2025-12-04,1
+7,Serviço de Protocolo,293244,SEPRO,2025-12-04,0
+6,Divisão de Gestão de Sistemas de Documentação e Informação,246271,DISIS,2025-12-04,0
+4,Coordenação-Geral de Infraestrutura Predial,200102,CGERP,2025-12-04,4
+5,Coordenação de Gestão de Espaços de Trabalho,349309,COGES,2025-12-04,0
+5,Coordenação de Manutenção Predial,200901,COMAN,2025-12-04,2
+6,Divisão de Instalações Prediais,200903,DINSP,2025-12-04,0
+6,Divisão de Telecomunicações,293236,DITEL,2025-12-04,0
+5,Coordenação de Modernização e Obras,200896,COMOB,2025-12-04,0
+5,Divisão de Gestão de Projetos e Inovação,348629,DIVIN,2025-12-04,0
+4,"Coordenação-Geral de Contratações, Atas e Fiscalização Administrativa",348471,CGCAF,2025-12-04,3
+5,Coordenação de Contratações e Atas,246267,COCAT,2025-12-04,2
+6,Divisão de Contratações Continuadas e com Mão de Obra,293234,DICOM,2025-12-04,0
+6,"Divisão de Contratações Diretas, Escopo e TI",349330,DICET,2025-12-04,0
+5,Coordenação de Fiscalização Administrativa e Apoio à Gestão,49291,COFAG,2025-12-04,0
+5,"Coordenação de Repactuação, Reajuste, Revisão e Alteração Contratual",348529,COREP,2025-12-04,0
+4,"Coordenação-Geral de Segurança, Administração, Terceirização e Transporte",348470,CGSAT,2025-12-04,3
+5,Coordenação de Gestão de Segurança e de Administração,200891,COSAD,2025-12-04,1
+6,Divisão de Administração,246259,DIADM,2025-12-04,0
+5,Coordenação de Gestão de Terceirização e de Transporte,220996,COGET,2025-12-04,2
+6,Divisão de Atividades Gerais,348649,DIAGE,2025-12-04,0
+6,Divisão de Transporte,293235,DITRA,2025-12-04,0
+5,Divisão de Diárias e Passagens,73349,DIDAP,2025-12-04,0
+3,Diretoria de Contratações e Unidades Descentralizadas,292516,DCD,2025-12-04,23
+5,Coordenação de Apoio à Gestão de Equipes e Recursos Logísticos,376534,COAGR,2025-12-04,0
+5,Coordenação de Governança das Unidades Descentralizadas,320929,COGUD,2025-12-04,0
+4,Coordenação-Geral de Licitações,200103,CGLIC ,2025-12-04,3
+5,Coordenação de Monitoramento do Orçamento das Unidades Descentralizadas,320930,COMOR,2025-12-04,0
+5,Coordenação de Gestão de Demandas de Contratações,293231,CODEM,2025-12-04,0
+5,Coordenação de Contratações Diretas,348569,CCOND,2025-12-04,0
+4,Superintendência Regional de Administração no Estado da Bahia,3025,SRA-BA,2025-12-04,0
+4,Superintendência Regional de Administração no Estado da Paraíba,52447,SRA-PB,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de Alagoas,52442,SRA-AL,2025-12-04,1
+5,Divisão de Administração e Logística,73746,DIAL-MT,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de Minas Gerais,2951,SRA-MG,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de Pernambuco,2962,SRA-PE,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de Rondônia,203193,SRA-RO,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de Roraima,203194,SRA-RR,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de Santa Catarina,52450,SRA-SC,2025-12-04,0
+4,Superintendência Regional de Administração no Estado de São Paulo,2954,SRA-SP,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Acre,203192,SRA-AC,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Amapá,203195,SRA-AP,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Amazonas,2957,SRA-AM,2025-12-04,1
+5,Divisão de Administração e Logística,73715,DIAL-AM,2025-12-04,1
+6,Seção de Licitações e Contratos,321243,SELIC-AM,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Ceará,2960,SRA-CE,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Espírito Santo,52443,SRA-ES,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Mato Grosso do Sul,52446,SRA-MS,2025-12-04,1
+5,Serviço de Administração e Logistica,263790,SEAL-MS,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Paraná,2970,SRA-PR,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Pará,2961,SRA-PA,2025-12-04,0
+6,Serviço de Licitações e Contratos,73731,SELIC-PA,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Piauí,52448,SRA-PI,2025-12-04,1
+5,Serviço de Administração e Logistica,263791,SEAL-PI,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Rio Grande do Norte,52449,SRA-RN,2025-12-04,2
+5,Serviço de Administração e Logistica,263793,SEAL-RN,2025-12-04,0
+5,Seção de Orçamento e Financas,321328,SEOF-RN,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Rio Grande do Sul,2953,SRA-RS,2025-12-04,2
+5,Divisão de Administração e Logística,73701,DIAL-RS,2025-12-04,0
+5,Divisão de Orçamento e Finanças,73700,DIOF-RS,2025-12-04,0
+4,Superintendência Regional de Administração no Estado do Rio de Janeiro,2952,SRA-RJ,2025-12-04,1
+5,Divisão de Apoio à Administração Descentralizada,315247,DIAD-RJ,2025-12-04,3
+6,Serviço de Licitações e Contratos,73696,SELIC-RJ,2025-12-04,0
+6,"Seção de Gestão Documental, Patrimonial e Transporte",347610,SDPAT-RJ,2025-12-04,0
+6,Divisão de Execução Orçamentária  e Financeira,263606,DIORF-RJ,2025-12-04,0
+4,Superintendência Regional de Administração nos Estados de Goiás e Tocantins,52444,SRA-GO-TO,2025-12-04,0
+3,Diretoria de Gestão Estratégica,93939,DGE,2025-12-04,6
+4,Coordenação-Geral de Estratégia e Projetos,345643,CGESP,2025-12-04,2
+5,Coordenação de Modernização Organizacional,246119,COMOR,2025-12-04,0
+5,Coordenação do Plano Plurianual e Políticas Públicas,246116,COPLA,2025-12-04,0
+4,Coordenação de Apoio Administrativo e Cooperação Internacional,389389,COADI,2025-12-04,0
+4,Coordenação de Apoio e Assessoramento Técnico,246291,COAST,2025-12-04,1
+6,Divisão da Central de Atendimento de Pessoal no Distrito Federal,246330,CAPE-DF,2025-12-04,2
+7,Serviço da Central de Atendimento de Pessoal no Estado de Roraima,73724,CAPE-RR,2025-12-04,0
+7,Serviço da Central de Atendimento de Pessoal no Estado do Amapá,73732,CAPE-AP,2025-12-04,0
+6,Divisão da Central de Atendimento de Pessoal no Estado da Bahia,73753,CAPE-BA,2025-12-04,2
+7,Serviço da Central de Atendimento de Pessoal no Estado de Sergipe,73698,CAPE-SE,2025-12-04,0
+7,Serviço da Central de Atendimento de Pessoal no Estado do Piauí,246373,CAPE-PI,2025-12-04,0
+6,Divisão da Central de Atendimento de Pessoal no Estado de Minas Gerais,73687,CAPE-MG,2025-12-04,1
+7,Serviço da Central de Atendimento de Pessoal no Estado do Amazonas,73718,CAPE-AM,2025-12-04,0
+6,Divisão da Central de Atendimento de Pessoal no Estado de São Paulo,73709,CAPE-SP,2025-12-04,2
+7,Serviço da Central de Atendimento de Pessoal no Estado do Paraná,349053,CAPE-PR,2025-12-04,0
+7,Serviço da Central de Atendimento de Pessoal no Estado do Rio Grande do Sul,73703,CAPE-RS,2025-12-04,0
+6,Divisão da Central de Atendimento de Pessoal no Estado do Rio de Janeiro,263605,CAPE-RJ,2025-12-04,0
+6,Divisão de Assessoramento e Gestão,348809,DIASG,2025-12-04,3
+7,Serviço da Central de Atendimento de Pessoal no Estado de Goiás,312575,CAPE-GO,2025-12-04,0
+7,Serviço da Central de Atendimento de Pessoal no Estado de Santa Catarina,73750,CAPE-SC,2025-12-04,0
+7,Serviço da Central de Atendimento de Pessoal no Estado do Maranhão,73712,CAPE-MA,2025-12-04,0
+6,Divisão da Central de Atendimento de Pessoal no Estado de Pernambuco,72447,CAPE-PE,2025-12-04,2
+7,Serviço da Central de Atendimento de Pessoal no Estado da Paraíba,73697,CAPE-PB,2025-12-04,0
+7,Serviço da Central de Atendimento de Pessoal no Estado de Alagoas,73695,CAPE-AL,2025-12-04,0
+5,Coordenação de Controle de Pessoal,349011,CDCOP,2025-12-04,9
+6,Divisão de Assentamentos Funcionais e Boletim de Gestão de Pessoal,349050,DIAB,2025-12-04,1
+7,Serviço de Assentamento Funcional,452909,SAF,2025-12-04,0
+6,Divisão de Cargos e Carreiras e Progressão Funcional,77684,DICAC,2025-12-04,0
+6,Divisão de Avaliação de Desempenho e Estágio Probatório,77680,DIADE,2025-12-04,0
+6,Divisão de Movimentação Externa da Força de Trabalho,246300,DIMEX,2025-12-04,0
+6,Divisão de Provimento e Dimensionamento da Força de Trabalho,246301,DIPRO,2025-12-04,0
+6,Divisão de Realocação de Pessoal,376889,DIREP,2025-12-04,0
+6,Divisão de Acompanhamento e Prestação de Subsídios Judiciais,452869,DISUB,2025-12-04,0
+6,Divisão de Controle e Cumprimento de Demandas Judiciais,246335,DIDEJ,2025-12-04,0
+6,"Divisão de Normas, Direitos e Deveres de Pessoal",316877,DIDEP,2025-12-04,0
+4,Coordenação-Geral de Pagamento e Acompanhamento Funcional,14308,CGPAG,2025-12-04,1
+5,Coordenação da Folha de Pagamento,20237,COPAG,2025-12-04,7
+6,Divisão da Folha de Pagamento,376829,DIPAG,2025-12-04,0
+6,Divisão de Benefícios e Reposição ao Erário,20293,DIBEN,2025-12-04,0
+6,Divisão de Pagamento de Exercícios Anteriores,246295,DIPEX,2025-12-04,0
+6,Divisão de Acompanhamento Funcional,246296,DIAF,2025-12-04,0
+6,Divisão de Benefícios de Tempo de Contribuição,321544,DIBEC,2025-12-04,0
+6,Divisão de Apropriação da Folha de Pagamento,246298,DIFOP,2025-12-04,0
+6,Divisão de Reembolso de Pessoal Cedido,246299,DIREC,2025-12-04,0
+4,Coordenação-Geral de Promoção à Saúde e Qualidade de Vida,200105,CGPAQ,2025-12-04,2
+5,Coordenação de Atenção à Saúde do Servidor,200926,COASS,2025-12-04,0
+7,Serviço de Perícia Oficial em Saúde do Servidor,200930,SEPROSS,2025-12-04,2
+8,Seção de Perícia Oficial em Saúde do Servidor da 1º Região,349209,SEPROSS-1ªRG,2025-12-04,0
+8,Seção de Perícia Oficial em Saúde do Servidor da 4ª Região,376830,SEPROSS-4ªRG,2025-12-04,0
+7,Serviço de Ressarcimento de Plano de Saúde,312681,SEREP,2025-12-04,0
+5,Coordenação de Promoção da Qualidade de Vida,200931,COPAQ,2025-12-04,0
+4,Coordenação-Geral de Projetos e Modernização de Pessoal,349010,CGPMP,2025-12-04,2
+5,Coordenação de Gerenciamento de Dados de Pessoal,246290,COGDP,2025-12-04,0
+5,Coordenação de Modernização de Serviço de Pessoal,2733,COMPE,2025-12-04,0
+3,"Diretoria de Orçamento, Finanças e Contabilidade",237339,DFC,2025-12-04,1
+5,Coordenação de Atendimento Contábil,347769,COATE,2025-12-04,0
+4,Coordenação-Geral de Execução Orçamentária e Financeira,14325,CGEOF,2025-12-04,4
+5,Coordenação de Execução Financeira,20374,COEFI,2025-12-04,2
+6,Divisão Financeira,246261,DIFIN,2025-12-04,0
+6,Divisão Orçamentária,246264,DIORC,2025-12-04,0
+5,Coordenação de Execução Orçamentária,20381,CEORC,2025-12-04,0
+5,Coordenação de Modernização e Planejamento Orçamentário das Programações Transversais e Sociais,376329,CPTS,2025-12-04,0
+5,Coordenação de Descentralização Orçamentária,200877,CODEO,2025-12-04,3
+6,Divisão de Descentralização Financeira,246363,DEFIN,2025-12-04,0
+6,Divisão de Programação Financeira,73773,DIPROF,2025-12-04,0
+6,Divisão de Despesas Obrigatórias,246366,DIDEO,2025-12-04,0
+3,Diretoria de Tecnologia da Informação,237341,DTI,2025-12-04,3
+5,Coordenação de Conformidade e Análise em Contratos de Tecnologia da Informação,246283,CCATI,2025-12-04,0
+5,Coordenação de Gestão e Execução de Contratos de Tecnologia da Informação,220991,COGEC,2025-12-04,0
+5,Coordenação de Planejamento de Contratações de Tecnologia da Informação,73682,CPCTI,2025-12-04,0
+5,Coordenação de Arquitetura Organizacional,246285,COARQ,2025-12-04,0
+5,Coordenação de Governança Digital,246286,COGDI,2025-12-04,0
+5,Coordenação de Inteligência em Serviços Compartilhados,348390,COISC,2025-12-04,0
+5,Coordenação de Engenharia de Soluções de Tecnologia da Informação,20405,CESOL,2025-12-04,0
+5,Coordenação de Projetos de Soluções de Tecnologia da Informação,20406,CPSOL,2025-12-04,0
+4,"Coordenação-Geral de Segurança, Recursos e Infraestrutura Tecnológica",237344,CGSRT,2025-12-04,2
+5,Coordenação de Segurança em Tecnologia da Informação,246288,COSEG,2025-12-04,0
+5,Coordenação de Infraestrutura de Tecnologia da Informação,49272,COINF,2025-12-04,0
+4,Coordenação-Geral de Transformação Digital de Serviços Compartilhados,239125,CGTDS,2025-12-04,0
+4,Coordenação-Geral de Relacionamento em Serviços Tecnológicos Compartilhados,376431,CGRST,2025-12-04,1
+5,Coordenação de Suporte Tecnológico a Trabalho e Colaboração,49027,COSUP,2025-12-04,0
+2,Secretaria do Patrimônio da União,1986,SPU,2025-12-04,9
+4,Coordenação-Geral de Desenvolvimento Local e Infraestrutura,94493,CGDIN,2025-12-04,0
+4,Coordenação-Geral de Gestão de Bens de Uso da Administração Pública,94489,CGBAP,2025-12-04,0
+4,Coordenação-Geral de Regularização Fundiária,376169,CGREG,2025-12-04,0
+3,Diretoria de Modernização e Inovação,292557,DEMIN,2025-12-04,2
+4,Coordenação-Geral de Arrecadação,93539,CGARC,2025-12-04,0
+4,Coordenação-Geral de Cobrança,103364,CGCOB,2025-12-04,0
+3,Diretoria Executiva,236644,Direx,2025-12-04,3
+4,Coordenação-Geral de Articulação Institucional,394430,CGArticulação,2025-12-04,0
+4,Coordenação-Geral de Comunicação Institucional,394469,ASCOM,2025-12-04,0
+4,Coordenação-Geral de Estratégia Institucional,394489,CGEstratégia,2025-12-04,1
+5,Coordenação de Eventos,394569,COEV,2025-12-04,0
+3,Gabinete,78670,Gabin,2025-12-04,0
+3,Ouvidoria,394549,OUVID,2025-12-04,0
+3,Diretoria de Altos Estudos,217368,DAE,2025-12-04,4
+4,Coordenação-Geral de Avaliação e Organização de Evidências,297606,CGev,2025-12-04,0
+4,Coordenação-Geral de Ciência de Dados,217371,CGDados,2025-12-04,0
+4,Coordenação-Geral de Pesquisa,78660,CGP,2025-12-04,0
+4,Coordenação-Geral de Pós-Graduação Stricto Sensu,217370,CGPos,2025-12-04,0
+3,Diretoria de Desenvolvimento Profissional,3436,DDPro,2025-12-04,4
+4,Coordenação-Geral de Cooperação Federativa,394529,CGCOF,2025-12-04,0
+4,Coordenação-Geral de Desenvolvimento de Experiências de Aprendizagem Assíncronas,237049,CGDEA,2025-12-04,1
+5,Coordenação de Acompanhamento do Desenvolvimento de Experiências de Aprendizagem Assíncronas,297610,Coade,2025-12-04,0
+4,Coordenação-Geral de Desenvolvimento e Execução de Experiências de Aprendizagem Síncronas,78669,CGDES,2025-12-04,2
+5,Coordenação de Desenho de Experiências de Aprendizagem Síncronas,297607,Codea,2025-12-04,0
+5,Coordenação de Execução de Experiências de Aprendizagem Síncronas,297608,Coexa,2025-12-04,0
+4,Coordenação-Geral de Gestão das Diretrizes de Aprendizagem e Ensino,78665,CGDEN,2025-12-04,1
+5,Coordenação de Inovação em Formação e Avaliação,297609,QualiEdu,2025-12-04,0
+3,Diretoria de Educação Executiva,70255,DEX,2025-12-04,4
+4,Coordenação-Geral de Aperfeiçoamento para Carreiras,78667,CGCarreiras,2025-12-04,0
+4,Coordenação-Geral de Desenvolvimento de Altas Lideranças,78668,CGLidera,2025-12-04,0
+4,Coordenação-Geral de Especialização e MBA  ,237001,CGMBA,2025-12-04,1
+5,Coordenação de Cursos de Especialização e MBA,237002,CMBA,2025-12-04,0
+4,Coordenação-Geral de Formação Inicial de Carreiras,297721,CGFocar,2025-12-04,0
+3,Diretoria de Inovação,3432,GNova,2025-12-04,4
+4,Coordenação-Geral de Gestão do Conhecimento e Comunidades para Inovação,237052,GNova Comunidades,2025-12-04,0
+4,Coordenação-Geral de Inovação,217367,GNova Lab,2025-12-04,0
+4,Coordenação-Geral de Inovação Aberta,123159,GNova InovaçãoAberta,2025-12-04,0
+4,Coordenação-Geral de Inovação em Inteligência Artificial,478849,GNova LIIA,2025-12-04,0
+3,Auditoria Interna,97466,Audin,2025-12-04,2
+5,Coordenação de Administração de Pessoal,110170,Coap,2025-12-04,1
+7,Serviço de Pagamento,315467,SEPAG,2025-12-04,0
+6,Serviço de Acompanhamento Funcional,263647,Seaf,2025-12-04,0
+5,Coordenação de Desenvolvimento de Pessoas,221446,CODEP,2025-12-04,0
+5,Coordenação de Gestão Estratégica e Modernização,340423,COGEM,2025-12-04,0
+4,Coordenação-Geral de Logística e Contratos,236659,CGLog,2025-12-04,5
+5,Coordenação de Administração,236664,COADM,2025-12-04,1
+6,Serviço de Logística,236663,Selog,2025-12-04,0
+5,"Coordenação de Licitações, Compras e Contratos",237983,COLCC,2025-12-04,1
+6,Divisão de Contratos,309011,DCON,2025-12-04,0
+5,Coordenação de Finanças e Contabilidade,236657,CFC,2025-12-04,1
+6,Serviço de Contabilidade,299658,Secon,2025-12-04,0
+5,Coordenação de Orçamento,263780,COR,2025-12-04,0
+5,Coordenação de Projetos de Captação,472789,CCAP,2025-12-04,0
+4,Coordenação-Geral de Tecnologia da Informação,18552,CGTI,2025-12-04,0
+2,Instituto Nacional de Tecnologia da Informação,47388,ITI,2025-12-04,5
+3,Gabinete,72607,GABIN,2025-12-04,0
+3,"Diretoria de Auditoria, Fiscalização e Normalização",73264,DAFN,2025-12-04,1
+5,Coordenação de Auditoria e Credenciamento,304749,COAUC,2025-12-04,0
+5,Coordenação de Controle da CIN,421429,CCCIN,2025-12-04,0
+5,Coordenação de Fiscalização e Combate à Fraude,304753,COFIC,2025-12-04,0
+5,Coordenação de Inteligência e Análise Preditiva,304754,COIAP,2025-12-04,0
+4,Coordenação-Geral de Normalização e Pesquisa,59371,CGNPE,2025-12-04,0
+3,Diretoria de Infraestrutura Tecnológica,57953,DITEC,2025-12-04,2
+4,Coordenação-Geral de Infraestrutura e Segurança,73261,CGISE,2025-12-04,0
+4,Coordenação-Geral de Operações,59367,CGOPE,2025-12-04,0
+3,Diretoria de Tecnologias de Identificação,418372,DITI,2025-12-04,0
+3,"Diretoria de Planejamento, Orçamento e Administração",418373,DPOA,2025-12-04,1
+5,Coordenação de Tecnologia da Informação e Comunicação,73258,COTIC,2025-12-04,0
+4,Divisão de Assuntos Finalísticos,304575,DIAFI,2025-12-04,0
